@@ -1,2 +1,3 @@
 # spoj-solutions
-Solutions to www.spoj.com problems
+Solutions to www.spoj.com problems <br/>
+Repository containing my Spoj solutions
